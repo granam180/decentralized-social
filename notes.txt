@@ -1,0 +1,13 @@
+# Deployed Contract Addresses
+# https://docs.lens.xyz/docs/deployed-contract-addresses
+
+# Lens Hub Proxy
+## This is where the `queries` happen
+https://polygonscan.com/address/0xDb46d1Dc155634FbC732f92E853b10B288AD5a1d
+
+# Lens Hub Implementation (not the proxy)
+https://polygonscan.com/address/0xBA97fc9137b7cbBBC7fcB70a87DA645d917C902F
+
+## Under `Contract` (under `Implementation`) search for `Contract ABI`
+## Copy/Paste Contract ABI to `lenshub.json` in root directory
+
